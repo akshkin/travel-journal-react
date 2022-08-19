@@ -16,15 +16,6 @@ img{
 .gray{
   color: #918E9B;
 }
-.line{
-  position: absolute;
-  display: block;
-  height: 1px;
-  width: 90%;
-  background: lightgrey;
-  bottom:0%;
-  
-}
 
 .nav-bar{
   background: #F55A5A;
