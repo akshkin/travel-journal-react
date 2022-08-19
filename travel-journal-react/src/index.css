@@ -46,8 +46,10 @@ img{
   align-items: center;
   gap: 19px;
   position: relative;
-  
 }
+.card + .card{
+  border-top: 1px solid lighgrey;
+}  
 .card-title{
   font-size: 1.5625rem;
   margin-top: 0.2em;
