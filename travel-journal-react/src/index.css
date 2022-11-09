@@ -58,10 +58,14 @@ img{
 .card-desc{
   line-height: 150%;
 }
-@media(min-width: 600px){
+.card-list{
+  max-width: 600px;
+  margin: auto;
+}
+/* @media(min-width: 600px){
   .card-list{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   }
-}
+} */
 
